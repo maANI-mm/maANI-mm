@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Mani
-- 👀 I’m interested in ... Microelectronics
-- 🌱 I’m currently learning ... Embedded System Design
+- 👀 I’m interested in Microelectronics
+- 🌱 I’m currently learning Embedded System Design
 - 📫 How to reach me - mani.edu.es@gmail.com
 - 😄 https://replit.com/@mANI-mm
 - ⚡ Fun fact: ... I do hae some experiance in the area of Electrical Maintenance.
