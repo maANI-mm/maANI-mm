@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Embedded System Design
 - 📫 How to reach me - mani.edu.es@gmail.com
 - 😄 https://replit.com/@mANI-mm
-- ⚡ Fun fact: ... I do hae some experiance in the area of Electrical Maintenance. I have worked from 24V to 400kV.
+- ⚡ Fun fact: ... I do hae some experiance in the area of Electrical Maintenance.
+  I have worked from 24V to 400kV.
 
 <!---
 maANI-mm/maANI-mm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
