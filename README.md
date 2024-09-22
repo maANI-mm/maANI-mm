@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Mani
+- 👋 Hi, I’m M@ni
 - 👀 I’m interested in Microelectronics
 - 🌱 I’m currently learning Embedded System Design
 - 📫 How to reach me - mani.edu.es@gmail.com
