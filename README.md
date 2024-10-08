@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Embedded System Design
 - 📫 How to reach me - mani.edu.es@gmail.com
 - 😄 My replit Account - https://replit.com/@mANI-mm
-- ⚡ Fun fact: ... I do hae some experiance in the area of Electrical Maintenance.
+- ⚡ Fun fact: ... I do hae some experiance in the area of Electrical Maintenance in Steel & Power Sector.
   I have worked from 24V to 400kV.
 
 <!---
