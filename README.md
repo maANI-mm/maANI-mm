@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M@ni.
-- 👀 I’m interested in Microelectronics, IoT, Robotics & Machine Learning.
+- 👀 I’m interested in IoT, Robotics & Machine Learning.
 - 🌱 I’m currently learning Embedded System Design
 - 📫 How to reach me - mani.edu.es@gmail.com
 - 😄 My replit Account - https://replit.com/@mANI-mm
